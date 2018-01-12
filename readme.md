@@ -5,8 +5,5 @@ here i will create a web page with some stuff that i learn on video tutorial on 
 
 let's get started
 
-<<<<<<< HEAD
-change 7
-=======
 change 6
->>>>>>> master
+change 7
